@@ -1,5 +1,5 @@
 # OctoCam
-Half-Life Hackclub
+Hackclub Fallen
 
 OctoCam’s features:
 Basic camera functions e.g. take photos and videos and store them to a microsd card.
